@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irivers29
-- 👀 I’m interested in deep learning, computer vision and medical engineering
+- 👀 I’m interested in robotics, deep learning, computer vision and medical engineering
 - 🌱 I’m currently learning graph neural networks and NLP
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me www.linkedin.com/in/ignaciodelosriosruiz
